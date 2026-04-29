@@ -32,11 +32,12 @@ body {
 }
 
 .logo-img{
-    width:120px;
-    max-width:30%;
-    height:auto;
+    width:150px !important;
+    height:auto !important;
+    max-width:150px !important;
     display:block;
-    margin:0 auto 15px auto;
-    border-radius:12px;
+    margin:20px auto;
+    object-fit:contain;
 }
+
 
